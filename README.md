@@ -1,4 +1,5 @@
 🎥 **EXPLORATORY DATA ANALYSIS : MOVIE REVENUE DATASET**
+
 Proyek ini bertujuan untuk mengeksplorasi dataset pendapatan film yang diambil dari Kaggle. Fokus analisis adalah memahami tren pendapatan dari tahun ke tahun, pengaruh anggaran terhadap pendapatan, serta genre film yang paling populer berdasarkan jumlah produksi.
 
 🧰 Tools / Library yang Digunakan  
